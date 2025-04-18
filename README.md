@@ -1,4 +1,7 @@
 # Teresa Vial Makers Lab
+
+[Version Espanol](./README.es.md)
+
 Lesson plans, instructions, digital materials and lesson plans for a Maker's Lab sessions, children 9-16
 
 ## Overview and Goals
