@@ -1,4 +1,4 @@
-# Teresa Vial Maker sLab
+# Teresa Vial Makers Lab
 Lesson plans, instructions, digital materials and lesson plans for a Maker's Lab sessions, children 9-16
 
 ## Overview and Goals
