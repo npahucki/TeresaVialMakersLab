@@ -70,14 +70,16 @@ expertise and use software to affect the physical world.
 
 ### Taking things apart
   - Number of Sessions: 1
-  - Project Output: A box of parts, and or reassembled things
+  - Project Output: A box of parts for use in later projects, and/or reassembled things
 
 During this topic we will take apart a variety of things to see how they work. 
-Then we will put them back together in a way that they can be used again.
+Then we may will put some items back together in a way that they can be used again. Others, we 
+will simply keep the parts for use in later projects.
 We will learn about the different parts of the things we take apart, and how they work together.
 We will learn about the tools we need to take things apart, and how to use them safely.
 We will learn about the materials we are working with, and how to work with them safely.
-We will lean about the different types of fasteners we will encounter, and how to use fasten and un fasten them (e.g. screws, clips, adhesives, etc.).
+We will lean about the different types of fasteners we will encounter, and how to use fasten 
+and unfasten them (e.g. screws, clips, adhesives, etc.).
 
 #### Materials Provided by School
  - Tools (see below)
@@ -181,7 +183,7 @@ We will learn how to cut, bend, sand, bond, solder and finish metal.
  - Vice
  - Soldering Iron
 
-### Basic sewing
+### Basic Hand Sewing
 - Number of Sessions: 2
 - Project Output: A small sewn item (e.g. a pouch, a stuffed toy, a simple garment, etc.)
 
@@ -189,6 +191,8 @@ During this topic we will learn about different types of fabrics and materials u
 We will learn basic hand-sewing techniques including different types of stitches.
 We will learn how to use patterns, cut fabric, and assemble pieces.
 We will learn how to use a sewing machine for those who are interested.
+
+NB: I may ask Maca to attend one of both of the lessons to share her expertise with us.
 
 #### Materials Provided by School
  - Tools (see below)
@@ -326,6 +330,35 @@ Each student will design and build a simple electrical circuit project.
  - Scissors
  - Ruler
 
+### Basic Electromotive Forces
+- Number of Sessions: 2
+- Project Output: An electromagnet, a hand made motor, a handmade relay or solenoid, a speaker. 
+
+In this topic we will learn about electromagnetism and how electricity can be converted to produce physical motion. 
+This knowledge will come in handy for later projects.
+Each group will make one of an electromagnet, solenoid, motor or speaker.
+We will learn about permanent magnets and how they interact with electric current.
+We will learn about electromagments and how they can be used to create motion.
+Wee will learn about relays which are electromagnetic switches that can be used to control larger currents with smaller ones.
+
+#### Materials Provided by School
+ - Tools (see below)
+ - Batteries and battery holders
+ - Switches
+ - Wires
+ - Metal cores
+ - Relays with transparent cases or cases removed (to make visibe what is going on inside).
+ - Permanent magnets
+ - Cardboard and paper for mounting structure
+
+#### Materials Provided By Students
+ - Safety glasses
+
+#### Tools Provided by School
+ - Wire cutters/strippers
+ - Multimeter
+ - Soldering iron
+
 ### Basic electronics
 - Number of Sessions: 2
 - Project Output: An electronic device with semiconductor components (e.g., a light sensor, a touch-activated switch, a simple music player)
@@ -358,8 +391,34 @@ Each group will design and build an electronic device that uses semiconductor co
  - Digital oscilloscope (for demonstration)
  - Multimeter
 
+### Halloween Project
+- Number of Sessions: 4
+- Project Output: A Halloween decoration (e.g. a spooky robot, a spooky light, a spooky sound, a wearable mask or costume, etc.)
+
+During this topic we will combine and apply all the skills we have learned in the previous topics to create a Halloween decoration.
+Children will come up with an idea, and then be guided how to implement it given the constraints of time, 
+available materials and skill level of the group.
+
+When completed, the school will have a Halloween party where the kids can show off their creations to the other 
+kids and parents in the school.
+
+#### Materials Provided by School
+ - Tools (see below)
+ - A box of assorted mechanical parts (e.g. gears, pulleys, rubber bands, etc.)
+ - A box of assorted materials (e.g. cardboard, plastic, wood, etc.)
+ - A box of assorted fasteners (e.g. screws, nuts, bolts, etc.)
+ - A box of assorted electronics (e.g. batteries, wires, etc.)
+
+### Materials Provided By Students
+ - Safety glasses
+ - Any parts from home they may want to incorporate into their project (e.g. old toys, old electronics, etc.)
+
+#### Tools Provided by School
+ - All tools from previous sessions
+
+
 ### Intro to programming
-- Number of Sessions: 2
+- Number of Sessions: 4
 - Project Output: A simple computer program (e.g., a game, an animation, an interactive story)
 
 During this topic we will learn the basics of computer programming using a visual programming language [Scratch](https://scratch.mit.edu/).
@@ -445,28 +504,3 @@ Each group will design and build a simple robot that can move and respond to its
  - Scissors and craft knives
  - Rulers and measuring tape
 
-
-### Halloween Project
-- Number of Sessions: 4
-- Project Output: A Halloween decoration (e.g. a spooky robot, a spooky light, a spooky sound, a wearable mask or costume, etc.)
-
-During this topic we will combine and apply all the skills we have learned in the previous topics to create a Halloween decoration.
-Children will come up with an idea, and then be guided how to implement it given the constraints of time, 
-available materials and skill level of the group.
-
-When completed, the school will have a Halloween party where the kids can show off their creations to the other 
-kids and parents in the school.
-
-#### Materials Provided by School
- - Tools (see below)
- - A box of assorted mechanical parts (e.g. gears, pulleys, rubber bands, etc.)
- - A box of assorted materials (e.g. cardboard, plastic, wood, etc.)
- - A box of assorted fasteners (e.g. screws, nuts, bolts, etc.)
- - A box of assorted electronics (e.g. batteries, wires, etc.)
-
-### Materials Provided By Students
- - Safety glasses
- - Any parts from home they may want to incorporate into their project (e.g. old toys, old electronics, etc.)
-
-#### Tools Provided by School
- - All tools from previous sessions

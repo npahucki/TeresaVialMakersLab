@@ -70,14 +70,16 @@ y usar software para afectar el mundo físico.
 
 ### Desarmando cosas
   - Número de Sesiones: 1
-  - Resultado del Proyecto: Una caja de piezas y/o cosas reensambladas
+  - Resultado del Proyecto: Una caja de piezas para usar en proyectos posteriores, y/o cosas reensambladas
 
 Durante este tema desarmaremos una variedad de cosas para ver cómo funcionan.
-Luego las volveremos a armar de manera que puedan usarse nuevamente.
+Luego podemos volver a armar algunos artículos de manera que puedan usarse nuevamente. Otros, 
+simplemente guardaremos las piezas para usar en proyectos posteriores.
 Aprenderemos sobre las diferentes partes de las cosas que desarmamos y cómo funcionan juntas.
 Aprenderemos sobre las herramientas que necesitamos para desarmar cosas y cómo usarlas de manera segura.
 Aprenderemos sobre los materiales con los que estamos trabajando y cómo trabajar con ellos de manera segura.
-Aprenderemos sobre los diferentes tipos de sujetadores que encontraremos y cómo usarlos para sujetar y soltar (por ejemplo, tornillos, clips, adhesivos, etc.).
+Aprenderemos sobre los diferentes tipos de sujetadores que encontraremos y cómo usarlos para sujetar 
+y soltar (por ejemplo, tornillos, clips, adhesivos, etc.).
 
 #### Materiales Proporcionados por la Escuela
  - Herramientas (ver abajo)
@@ -179,7 +181,7 @@ Aprenderemos cómo cortar, doblar, lijar, pegar, soldar y acabar el metal.
  - Tornillo de banco ("prensa")
  - Cautín ("cautín" o "soldador")
 
-### Costura básica
+### Costura básica a mano
 - Número de Sesiones: 2
 - Resultado del Proyecto: Un pequeño artículo cosido (por ejemplo, una bolsa, un juguete de peluche, una prenda simple, etc.)
 
@@ -187,6 +189,8 @@ Durante este tema aprenderemos sobre diferentes tipos de telas y materiales util
 Aprenderemos técnicas básicas de costura a mano, incluyendo diferentes tipos de puntadas.
 Aprenderemos cómo usar patrones, cortar tela y ensamblar piezas.
 Aprenderemos cómo usar una máquina de coser para aquellos que estén interesados.
+
+Nota: Es posible que le pida a Maca que asista a una o ambas lecciones para compartir su experiencia con nosotros.
 
 #### Materiales Proporcionados por la Escuela
  - Herramientas (ver abajo)
@@ -324,6 +328,35 @@ Cada estudiante diseñará y construirá un proyecto de circuito eléctrico simp
  - Tijeras ("tijeras")
  - Regla ("regla")
 
+### Fuerzas electromotrices básicas
+- Número de Sesiones: 2
+- Resultado del Proyecto: Un electroimán, un motor hecho a mano, un relé o solenoide hecho a mano, un altavoz.
+
+En este tema aprenderemos sobre electromagnetismo y cómo la electricidad puede convertirse para producir movimiento físico.
+Este conocimiento será útil para proyectos posteriores.
+Cada grupo hará uno de los siguientes: un electroimán, un solenoide, un motor o un altavoz.
+Aprenderemos sobre imanes permanentes y cómo interactúan con la corriente eléctrica.
+Aprenderemos sobre electroimanes y cómo pueden usarse para crear movimiento.
+Aprenderemos sobre relés, que son interruptores electromagnéticos que pueden usarse para controlar corrientes más grandes con otras más pequeñas.
+
+#### Materiales Proporcionados por la Escuela
+ - Herramientas (ver abajo)
+ - Pilas y portapilas ("pilas" y "portapilas")
+ - Interruptores ("interruptores" o "switch")
+ - Cables ("cables")
+ - Núcleos metálicos
+ - Relés con cajas transparentes o cajas removidas (para hacer visible lo que sucede dentro)
+ - Imanes permanentes
+ - Cartón y papel para estructura de montaje
+
+#### Materiales Proporcionados por los Estudiantes
+ - Lentes de seguridad
+
+#### Herramientas Proporcionadas por la Escuela
+ - Cortadores/peladores de cables ("pela cables" o "cortacables")
+ - Multímetro ("tester")
+ - Cautín ("cautín" o "soldador")
+
 ### Electrónica básica
 - Número de Sesiones: 2
 - Resultado del Proyecto: Un dispositivo electrónico con componentes semiconductores (por ejemplo, un sensor de luz, un interruptor activado por tacto, un reproductor de música simple)
@@ -356,8 +389,34 @@ Cada grupo diseñará y construirá un dispositivo electrónico que use componen
  - Osciloscopio digital (para demostración, "osciloscopio")
  - Multímetro ("tester")
 
+### Proyecto de Halloween
+- Número de Sesiones: 4
+- Resultado del Proyecto: Una decoración de Halloween (por ejemplo, un robot espeluznante, una luz espeluznante, un sonido espeluznante, una máscara o disfraz para usar, etc.)
+
+Durante este tema combinaremos y aplicaremos todas las habilidades que hemos aprendido en los temas anteriores para crear una decoración de Halloween.
+Los niños idearán una idea, y luego serán guiados sobre cómo implementarla dadas las restricciones de tiempo,
+materiales disponibles y nivel de habilidad del grupo.
+
+Cuando se complete, la escuela tendrá una fiesta de Halloween donde los niños pueden mostrar sus creaciones a los otros
+niños y padres en la escuela.
+
+#### Materiales Proporcionados por la Escuela
+ - Herramientas (ver abajo)
+ - Una caja de piezas mecánicas surtidas (por ejemplo, engranajes o "ruedas dentadas", poleas, elásticos o "ligas", etc.)
+ - Una caja de materiales surtidos (por ejemplo, cartón, plástico o "plumavit", madera o "palitos", etc.)
+ - Una caja de sujetadores surtidos (por ejemplo, tornillos o "tornillos", tuercas o "tuercas", pernos o "pernos", etc.)
+ - Una caja de electrónica surtida (por ejemplo, pilas o "pilas", cables o "cables", etc.)
+
+#### Materiales Proporcionados por los Estudiantes
+ - Lentes de seguridad
+ - Cualquier pieza de casa que quieran incorporar a su proyecto (por ejemplo, juguetes viejos, electrónica vieja, etc.)
+
+#### Herramientas Proporcionadas por la Escuela
+ - Todas las herramientas de sesiones anteriores
+
+
 ### Introducción a la programación
-- Número de Sesiones: 2
+- Número de Sesiones: 4
 - Resultado del Proyecto: Un programa de computadora simple (por ejemplo, un juego, una animación, una historia interactiva)
 
 Durante este tema aprenderemos los conceptos básicos de programación de computadoras usando un lenguaje de programación visual [Scratch](https://scratch.mit.edu/).
@@ -442,28 +501,3 @@ Cada grupo diseñará y construirá un robot simple que pueda moverse y responde
  - Pistolas de silicona caliente ("pistola de silicona")
  - Tijeras y cuchillos para manualidades ("tijeras" y "cortacartón")
  - Reglas y cinta métrica ("regla" y "huincha")
-
-### Proyecto de Halloween
-- Número de Sesiones: 4
-- Resultado del Proyecto: Una decoración de Halloween (por ejemplo, un robot espeluznante, una luz espeluznante, un sonido espeluznante, una máscara o disfraz para usar, etc.)
-
-Durante este tema combinaremos y aplicaremos todas las habilidades que hemos aprendido en los temas anteriores para crear una decoración de Halloween.
-Los niños idearán una idea, y luego serán guiados sobre cómo implementarla dadas las restricciones de tiempo,
-materiales disponibles y nivel de habilidad del grupo.
-
-Cuando se complete, la escuela tendrá una fiesta de Halloween donde los niños pueden mostrar sus creaciones a los otros
-niños y padres en la escuela.
-
-#### Materiales Proporcionados por la Escuela
- - Herramientas (ver abajo)
- - Una caja de piezas mecánicas surtidas (por ejemplo, engranajes o "ruedas dentadas", poleas, elásticos o "ligas", etc.)
- - Una caja de materiales surtidos (por ejemplo, cartón, plástico o "plumavit", madera o "palitos", etc.)
- - Una caja de sujetadores surtidos (por ejemplo, tornillos o "tornillos", tuercas o "tuercas", pernos o "pernos", etc.)
- - Una caja de electrónica surtida (por ejemplo, pilas o "pilas", cables o "cables", etc.)
-
-### Materiales Proporcionados por los Estudiantes
- - Lentes de seguridad
- - Cualquier pieza de casa que quieran incorporar a su proyecto (por ejemplo, juguetes viejos, electrónica vieja, etc.)
-
-#### Herramientas Proporcionadas por la Escuela
- - Todas las herramientas de sesiones anteriores
