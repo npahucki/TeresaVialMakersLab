@@ -10,7 +10,7 @@ Estoy creando un curso de Laboratorio de Makers para niños de 9 a 16 años en l
 La idea es introducir a los niños a diferentes habilidades que necesitarían para construir cosas por sí mismos y
 convertirse en miembros de la comunidad Maker.
 
-Las lecciones duran dos horas cada una (con unos 5-10 minutos de preparación y recogida) una vez a la semana durante 27 semanas (PENDIENTE: verificar).
+Las lecciones duran 80 minutos cada una (con unos 5-10 minutos de preparación y recogida) una vez a la semana durante 32 semanas.
 La idea general es proporcionar orientación y materiales a los niños que sienten curiosidad por construir cosas. Los
 niños aprenderán teoría haciendo, no habrá aburridas charlas teóricas independientes.
 El laboratorio será muy práctico y orientado a proyectos, de modo que en cada lección los niños avanzarán en un proyecto
@@ -66,34 +66,42 @@ Si bien mi trabajo ahora está firmemente en el ámbito de lo virtual, todavía 
 y aprovecho cada oportunidad que puedo para hacerlo. Mis proyectos favoritos son aquellos que me permiten combinar toda mi experiencia acumulada
 y usar software para afectar el mundo físico.
 
+## Calendario
+
+- 32 clases en total
+- 80 minutos por clase (con 5-10 minutos para preparación y recogida)
+- Cada martes, la primera clase es el 2026-03-17 y la última clase es el 2026-11-17
+
+### No hay clases en las siguientes fechas:
+- 2026-05-12
+- 2026-07-21
+- 2026-07-28
+- 2026-09-15
+
+
 ## Esquema del Curso
 
-### Desarmando cosas
-  - Número de Sesiones: 1
-  - Resultado del Proyecto: Una caja de piezas para usar en proyectos posteriores, y/o cosas reensambladas
-
-Durante este tema desarmaremos una variedad de cosas para ver cómo funcionan.
-Luego podemos volver a armar algunos artículos de manera que puedan usarse nuevamente. Otros, 
-simplemente guardaremos las piezas para usar en proyectos posteriores.
-Aprenderemos sobre las diferentes partes de las cosas que desarmamos y cómo funcionan juntas.
-Aprenderemos sobre las herramientas que necesitamos para desarmar cosas y cómo usarlas de manera segura.
-Aprenderemos sobre los materiales con los que estamos trabajando y cómo trabajar con ellos de manera segura.
-Aprenderemos sobre los diferentes tipos de sujetadores que encontraremos y cómo usarlos para sujetar 
-y soltar (por ejemplo, tornillos, clips, adhesivos, etc.).
-
-#### Materiales Proporcionados por la Escuela
- - Herramientas (ver abajo)
- - Algunos artículos para desarmar (por ejemplo, computadora vieja, radio vieja, juguete viejo, etc.)
-
-#### Materiales Proporcionados por los Estudiantes
- - Lentes de seguridad ("antiparras")
- - Algo para desarmar (por ejemplo, computadora vieja, radio vieja, juguete viejo, etc.)
-
-#### Herramientas Proporcionadas por la Escuela
- - Destornilladores (de cruz y planos, "chuecos")
- - Alicates ("pinzas")
+| # | Tema | Sesiones | Fechas |
+|---|------|----------|--------|
+| 1 | [Batalla Real de Autos de Lego](#batalla-real-de-autos-de-lego) | 1 | 03-17 |
+| 2 | [Desarmando cosas](#desarmando-cosas) | 1 | 03-24 |
+| 3 | [Carpintería](#carpintería) | 3 | 03-31, 04-07, 04-14 |
+| 4 | [Trabajo ligero con metales y soldadura](#trabajo-ligero-con-metales-y-soldadura) | 1 | 04-21 |
+| 5 | [Costura básica a mano](#costura-básica-a-mano) | 1 | 04-28 |
+| 6 | [Trabajando con plástico](#trabajando-con-plástico) | 1 | 05-05 |
+| 7 | [Impresión 3D](#impresión-3d) | 2 | 05-19, 05-26 |
+| 8 | [Mecánica, engranajes, poleas y palancas](#mecánica-engranajes-poleas-y-palancas) | 2 | 06-02, 06-09 |
+| 9 | [Electricidad básica](#electricidad-básica) | 2 | 06-16, 06-23 |
+| 10 | [Neumática e Hidráulica](#neumática-e-hidráulica) | 1 | 06-30 |
+| 11 | [Fuerzas electromotrices básicas](#fuerzas-electromotrices-básicas) | 2 | 07-07, 07-14 |
+| 12 | [Electrónica básica](#electrónica-básica) | 2 | 08-04, 08-11 |
+| 13 | [Introducción a la programación y lógica](#introducción-a-la-programación-y-lógica) | 4 | 08-18, 08-25, 09-01, 09-08 |
+| 14 | [Introducción a microcontroladores y minicomputadoras](#introducción-a-microcontroladores-y-minicomputadoras) | 3 | 09-22, 09-29, 10-06 |
+| 15 | [Proyecto de Halloween](#proyecto-de-halloween) | 3 | 10-13, 10-20, 10-27 |
+| 16 | [Introducción a la robótica](#introducción-a-la-robótica) | 3 | 11-03, 11-10, 11-17 |
 
 ### Batalla Real de Autos de Lego
+  - Fecha: 2026-03-17
   - Número de Sesiones: 1
   - Resultado del Proyecto: Un auto de Lego ("autito") que se puede usar en una batalla de choques ("choque y choque") con otros autos de lego
 
@@ -101,6 +109,8 @@ Durante este tema ensamblaremos autos hechos de una caja de piezas surtidas de l
 y decoración. Chocaremos los autos entre sí para ver cuál es el más duradero, luego tendremos otra ronda
 de construcción para aplicar las lecciones aprendidas de la primera ronda. Si el tiempo lo permite, haremos una ronda más de construcción y choques.
 El grupo que gane recibirá un pequeño trofeo de Lego.
+
+Se juzgará por la estética, creatividad y durabilidad de los autos.
 
 Aprenderemos sobre principios básicos de física como masa, momento, fricción y adhesión.
 Aprenderemos cómo construir cosas que puedan resistir fuerzas.
@@ -118,14 +128,49 @@ Aprenderemos el proceso iterativo de diseño de ingeniería (pensar/diseñar, co
  - Destornilladores pequeños para separar piezas
  - Alicates para separar piezas
 
+
+### Desarmando cosas
+  - Número de Sesiones: 1
+  - Fecha: 2026-03-24
+  - Resultado del Proyecto: Una caja de piezas para usar en proyectos posteriores, y/o cosas reensambladas
+
+Durante este tema desarmaremos una variedad de cosas para ver cómo funcionan.
+Luego podemos volver a armar algunos artículos de manera que puedan usarse nuevamente. Otros,
+simplemente guardaremos las piezas para usar en proyectos posteriores.
+Aprenderemos sobre las diferentes partes de las cosas que desarmamos y cómo funcionan juntas.
+Aprenderemos sobre las herramientas que necesitamos para desarmar cosas y cómo usarlas de manera segura.
+Aprenderemos sobre los materiales con los que estamos trabajando y cómo trabajar con ellos de manera segura.
+Aprenderemos sobre los diferentes tipos de sujetadores que encontraremos y cómo usarlos para sujetar
+y soltar (por ejemplo, tornillos, clips, adhesivos, etc.).
+
+#### Materiales Proporcionados por la Escuela
+ - Herramientas (ver abajo)
+ - Algunos artículos para desarmar (por ejemplo, computadora vieja, radio vieja, juguete viejo, etc.)
+
+#### Materiales Proporcionados por los Estudiantes
+ - Lentes de seguridad ("antiparras")
+ - Algo para desarmar (por ejemplo, computadora vieja, radio vieja, juguete viejo, etc.)
+
+#### Herramientas Proporcionadas por la Escuela
+ - Destornilladores (de cruz y planos, "chuecos")
+ - Alicates ("pinzas")
+
+
 ### Carpintería
   - Número de Sesiones: 3
+  - Fechas: 2026-03-31, 2026-04-07, 2026-04-14
   - Resultado del Proyecto: Una caja de madera, un juguete de madera, un juego de madera, una figurita de madera, un rompecabezas de madera, una escultura de madera, un mueble de madera, etc.
 
 Durante este tema aprenderemos sobre los diferentes tipos de madera (blanda vs dura) y cómo trabajar con ellos.
 Aprenderemos sobre los diferentes tipos de herramientas que necesitamos para trabajar con madera y cómo usarlas de manera segura.
 Aprenderemos cómo cortar, lijar, pegar, ensamblar y acabar la madera.
 Aprenderemos cómo tallar y dar forma a la madera.
+
+#### Instrucción
+  - Herramientas de corte (sierras, formones, cuchillos, etc.)
+  - Herramientas de forma (cepillos, escofinas, limas, etc.)
+  - Herramientas de unión (martillos, taladros, destornilladores, cola + prensas, etc.)
+  - Herramientas de acabado (papel de lija, brochas, etc.)
 
 #### Materiales Proporcionados por la Escuela
  - Herramientas (ver abajo)
@@ -153,9 +198,12 @@ Aprenderemos cómo tallar y dar forma a la madera.
  - Cepillo para madera ("cepillo")
  - Tornillo de banco ("prensa")
  - Plancha (para pirograbado o "quemado")
+ - Papel de lija
+ - Cola para madera
 
 ### Trabajo ligero con metales y soldadura
   - Número de Sesiones: 1
+  - Fecha: 2026-04-21
   - Resultado del Proyecto: Una pequeña escultura o figurita, pieza de joyería hecha de metal
 
 Durante este tema aprenderemos sobre los diferentes tipos de metales (aluminio, cobre, latón, etc.) y cómo trabajar con ellos.
@@ -174,6 +222,7 @@ Aprenderemos cómo cortar, doblar, lijar, pegar, soldar y acabar el metal.
 
 #### Herramientas Proporcionadas por la Escuela
  - Sierra para metales ("arco de sierra")
+ - Tijeras para metal (para cortar láminas de metal)
  - Taladro (taladro eléctrico o "taladro", brocas para metal o "mechas para metal")
  - Destornilladores (de cruz y planos, "chuecos")
  - Alicates ("pinzas")
@@ -182,7 +231,8 @@ Aprenderemos cómo cortar, doblar, lijar, pegar, soldar y acabar el metal.
  - Cautín ("cautín" o "soldador")
 
 ### Costura básica a mano
-- Número de Sesiones: 2
+- Número de Sesiones: 1
+- Fecha: 2026-04-28
 - Resultado del Proyecto: Un pequeño artículo cosido (por ejemplo, una bolsa, un juguete de peluche, una prenda simple, etc.)
 
 Durante este tema aprenderemos sobre diferentes tipos de telas y materiales utilizados en la costura.
@@ -190,7 +240,7 @@ Aprenderemos técnicas básicas de costura a mano, incluyendo diferentes tipos d
 Aprenderemos cómo usar patrones, cortar tela y ensamblar piezas.
 Aprenderemos cómo usar una máquina de coser para aquellos que estén interesados.
 
-Nota: Es posible que le pida a Maca que asista a una o ambas lecciones para compartir su experiencia con nosotros.
+Maca Jimenez asistirá a la lección para compartir su experiencia con nosotros.
 
 #### Materiales Proporcionados por la Escuela
  - Herramientas (ver abajo)
@@ -214,6 +264,7 @@ Nota: Es posible que le pida a Maca que asista a una o ambas lecciones para comp
 
 ### Trabajando con plástico
 - Número de Sesiones: 1
+- Fecha: 2026-05-05
 - Resultado del Proyecto: Una pequeña estructura (casa modelo, figurita, etc.) hecha de bloques de plástico
 
 Durante este tema aprenderemos sobre los diferentes tipos de plásticos (ABS, PVC, etc.) y cómo trabajar con ellos.
@@ -239,6 +290,7 @@ Aprenderemos cómo cortar, taladrar, derretir, doblar, lijar, pegar plástico.
 
 ### Impresión 3D
 - Número de Sesiones: 2
+- Fechas: 2026-05-19, 2026-05-26
 - Resultado del Proyecto: Un objeto impreso en 3D diseñado por el estudiante
 
 Durante este tema aprenderemos sobre la tecnología de impresión 3D y cómo funciona.
@@ -265,6 +317,7 @@ Cada grupo de estudiantes diseñará e imprimirá un pequeño objeto de su elecc
 
 ### Mecánica, engranajes, poleas y palancas
 - Número de Sesiones: 2
+- Fechas: 2026-06-02, 2026-06-09
 - Resultado del Proyecto: Un dispositivo mecánico que demuestra principios de máquinas simples (por ejemplo, una catapulta, una grúa, un auto con engranajes)
 
 Durante este tema aprenderemos sobre máquinas simples y principios mecánicos.
@@ -296,6 +349,7 @@ Cada grupo diseñará y construirá un dispositivo mecánico que demuestre estos
 
 ### Electricidad básica
 - Número de Sesiones: 2
+- Fechas: 2026-06-16, 2026-06-23
 - Resultado del Proyecto: Un circuito eléctrico simple (por ejemplo, una tarjeta de felicitación con luz, una luz LED alimentada por batería, una alarma simple)
 
 Durante este tema aprenderemos sobre conceptos eléctricos básicos, incluyendo voltaje, corriente, resistencia y potencia.
@@ -328,8 +382,34 @@ Cada estudiante diseñará y construirá un proyecto de circuito eléctrico simp
  - Tijeras ("tijeras")
  - Regla ("regla")
 
+### Neumática e Hidráulica
+- Número de Sesiones: 1
+- Fecha: 2026-06-30
+- Resultado del Proyecto: Un dispositivo neumático o hidráulico simple (por ejemplo, un brazo neumático, una catapulta, un elevador hidráulico, un auto impulsado por globo)
+
+Durante este tema aprenderemos sobre neumática e hidráulica y cómo pueden usarse para crear movimiento.
+Aprenderemos sobre las propiedades de los gases y líquidos, y cómo pueden usarse para generar fuerza y movimiento.
+Aprenderemos cómo construir sistemas neumáticos e hidráulicos simples usando jeringas, tubos y otros materiales.
+Cada grupo diseñará y construirá un dispositivo neumático o hidráulico simple que demuestre estos principios.
+
+#### Materiales Proporcionados por los Estudiantes
+ - Lentes de seguridad
+ - Cualquier material especial que quieran incorporar
+
+#### Materiales Proporcionados por la Escuela
+ - Herramientas (ver abajo)
+ - Jeringas de varios tamaños
+ - Tubos
+ - Globos
+ - Agua y recipientes para agua
+ - Cartón y cartón pluma para montar
+ - Sujetadores surtidos
+ - Silicona caliente y cola para madera
+ - Materiales surtidos para hacer estructuras (por ejemplo, palitos de helado, bombillas, etc.)
+
 ### Fuerzas electromotrices básicas
 - Número de Sesiones: 2
+- Fechas: 2026-07-07, 2026-07-14
 - Resultado del Proyecto: Un electroimán, un motor hecho a mano, un relé o solenoide hecho a mano, un altavoz.
 
 En este tema aprenderemos sobre electromagnetismo y cómo la electricidad puede convertirse para producir movimiento físico.
@@ -359,6 +439,7 @@ Aprenderemos sobre relés, que son interruptores electromagnéticos que pueden u
 
 ### Electrónica básica
 - Número de Sesiones: 2
+- Fechas: 2026-08-04, 2026-08-11
 - Resultado del Proyecto: Un dispositivo electrónico con componentes semiconductores (por ejemplo, un sensor de luz, un interruptor activado por tacto, un reproductor de música simple)
 
 Durante este tema construiremos sobre nuestro conocimiento de electricidad básica y aprenderemos sobre componentes electrónicos.
@@ -389,34 +470,9 @@ Cada grupo diseñará y construirá un dispositivo electrónico que use componen
  - Osciloscopio digital (para demostración, "osciloscopio")
  - Multímetro ("tester")
 
-### Proyecto de Halloween
+### Introducción a la programación y lógica
 - Número de Sesiones: 4
-- Resultado del Proyecto: Una decoración de Halloween (por ejemplo, un robot espeluznante, una luz espeluznante, un sonido espeluznante, una máscara o disfraz para usar, etc.)
-
-Durante este tema combinaremos y aplicaremos todas las habilidades que hemos aprendido en los temas anteriores para crear una decoración de Halloween.
-Los niños idearán una idea, y luego serán guiados sobre cómo implementarla dadas las restricciones de tiempo,
-materiales disponibles y nivel de habilidad del grupo.
-
-Cuando se complete, la escuela tendrá una fiesta de Halloween donde los niños pueden mostrar sus creaciones a los otros
-niños y padres en la escuela.
-
-#### Materiales Proporcionados por la Escuela
- - Herramientas (ver abajo)
- - Una caja de piezas mecánicas surtidas (por ejemplo, engranajes o "ruedas dentadas", poleas, elásticos o "ligas", etc.)
- - Una caja de materiales surtidos (por ejemplo, cartón, plástico o "plumavit", madera o "palitos", etc.)
- - Una caja de sujetadores surtidos (por ejemplo, tornillos o "tornillos", tuercas o "tuercas", pernos o "pernos", etc.)
- - Una caja de electrónica surtida (por ejemplo, pilas o "pilas", cables o "cables", etc.)
-
-#### Materiales Proporcionados por los Estudiantes
- - Lentes de seguridad
- - Cualquier pieza de casa que quieran incorporar a su proyecto (por ejemplo, juguetes viejos, electrónica vieja, etc.)
-
-#### Herramientas Proporcionadas por la Escuela
- - Todas las herramientas de sesiones anteriores
-
-
-### Introducción a la programación
-- Número de Sesiones: 4
+- Fechas: 2026-08-18, 2026-08-25, 2026-09-01, 2026-09-08
 - Resultado del Proyecto: Un programa de computadora simple (por ejemplo, un juego, una animación, una historia interactiva)
 
 Durante este tema aprenderemos los conceptos básicos de programación de computadoras usando un lenguaje de programación visual [Scratch](https://scratch.mit.edu/).
@@ -439,7 +495,8 @@ Cada estudiante creará su propio programa que demuestre estos conceptos.
  - Acceso a Internet para recursos de programación en línea ("wifi" o "internet")
 
 ### Introducción a microcontroladores y minicomputadoras
-- Número de Sesiones: 2
+- Número de Sesiones: 3
+- Fechas: 2026-09-22, 2026-09-29, 2026-10-06
 - Resultado del Proyecto: Un proyecto basado en microcontrolador (por ejemplo, una luz intermitente, un temporizador, un control de servomotor, un proyecto simple de sensor)
 
 Durante este tema aprenderemos sobre microcontroladores y minicomputadoras como Arduino y Raspberry Pi.
@@ -470,8 +527,35 @@ Cada grupo creará un proyecto que use un microcontrolador para interactuar con 
  - Multímetro ("tester")
  - Estaciones de soldadura (para uso supervisado, "cautín")
 
+### Proyecto de Halloween
+- Número de Sesiones: 3
+- Fechas: 2026-10-13, 2026-10-20, 2026-10-27
+- Resultado del Proyecto: Una decoración de Halloween (por ejemplo, un robot espeluznante, una luz espeluznante, un sonido espeluznante, una máscara o disfraz para usar, etc.)
+
+Durante este tema combinaremos y aplicaremos todas las habilidades que hemos aprendido en los temas anteriores para crear una decoración de Halloween.
+Los niños idearán una idea, y luego serán guiados sobre cómo implementarla dadas las restricciones de tiempo,
+materiales disponibles y nivel de habilidad del grupo.
+
+Cuando se complete, la escuela tendrá una fiesta de Halloween donde los niños pueden mostrar sus creaciones a los otros
+niños y padres en la escuela.
+
+#### Materiales Proporcionados por la Escuela
+ - Herramientas (ver abajo)
+ - Una caja de piezas mecánicas surtidas (por ejemplo, engranajes o "ruedas dentadas", poleas, elásticos o "ligas", etc.)
+ - Una caja de materiales surtidos (por ejemplo, cartón, plástico o "plumavit", madera o "palitos", etc.)
+ - Una caja de sujetadores surtidos (por ejemplo, tornillos o "tornillos", tuercas o "tuercas", pernos o "pernos", etc.)
+ - Una caja de electrónica surtida (por ejemplo, pilas o "pilas", cables o "cables", etc.)
+
+#### Materiales Proporcionados por los Estudiantes
+ - Lentes de seguridad
+ - Cualquier pieza de casa que quieran incorporar a su proyecto (por ejemplo, juguetes viejos, electrónica vieja, etc.)
+
+#### Herramientas Proporcionadas por la Escuela
+ - Todas las herramientas de sesiones anteriores
+
 ### Introducción a la robótica
-- Número de Sesiones: 2
+- Número de Sesiones: 3
+- Fechas: 2026-11-03, 2026-11-10, 2026-11-17
 - Resultado del Proyecto: Un robot simple que puede moverse y responder a su entorno
 
 Durante este tema combinaremos nuestro conocimiento de mecánica, electrónica y programación para construir robots.

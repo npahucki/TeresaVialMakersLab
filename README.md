@@ -2,7 +2,7 @@
 
 [Version Espanol](./README.es.md)
 
-Lesson plans, instructions, digital materials and lesson plans for a Maker's Lab sessions, children 9-16
+Lesson plans, instructions, digital materials, and lesson plans for a Maker's Lab sessions, children 9-16
 
 ## Overview and Goals
 
@@ -10,7 +10,7 @@ I'm creating a Maker's Lab course for children 9-16 years of age at Teresa Vial 
 The idea is to introduce the children to different skills they would need to build things for themselves and 
 become members of the Maker community.
 
-The lessons are two hours long each (with some 5-10 minutes of setup and teardown time) once a week for 27 weeks (TODO: verify). 
+The lessons are two hours long each (with some 5-10 minutes of setup and teardown time) once a week for 32 weeks. 
 The general idea is to provide guidance and materials to children who are curious about building things. The
 children will lean theory by doing, there will be no stand-alone boring lectures on theory. 
 The lab will be very hands-on, and project oriented in that every lesson the children will make progress on a project
@@ -65,11 +65,72 @@ While my work is now firmly in the realm of the virtual, I still have a passion 
 and take every opportunity I can to do so. My favorite projects are those that allow me to combine all my accumulated 
 expertise and use software to affect the physical world.
 
+## Schedule
+
+- 32 classes in total
+- 80 Minutes per class (with 5-10 minutes for setup and teardown)
+- Every Tuesday, first class is 2026-03-17 and last class is 2026-11-17
+
+### No Classes on the following dates:
+- 2026-05-12
+- 2026-07-21
+- 2026-07-28
+- 2026-09-15
+
 
 ## Course Outline
 
+| # | Topic | Sessions | Dates |
+|---|-------|----------|-------|
+| 1 | [Lego Car Battle Royal](#lego-car-battle-royal) | 1 | 03-17 |
+| 2 | [Taking things apart](#taking-things-apart) | 1 | 03-24 |
+| 3 | [Woodworking](#woodworking) | 3 | 03-31, 04-07, 04-14 |
+| 4 | [Light metalworking and soldering](#light-metalworking-and-soldering) | 1 | 04-21 |
+| 5 | [Basic Hand Sewing](#basic-hand-sewing) | 1 | 04-28 |
+| 6 | [Working with plastic](#working-with-plastic) | 1 | 05-05 |
+| 7 | [3D printing](#3d-printing) | 2 | 05-19, 05-26 |
+| 8 | [Mechanics, gears, pulleys, and levers](#mechanics-gears-pulleys-and-levers) | 2 | 06-02, 06-09 |
+| 9 | [Basic electricity](#basic-electricity) | 2 | 06-16, 06-23 |
+| 10 | [Pneumatics and Hydraulics](#pneumatics-and-hydraulics) | 1 | 06-30 |
+| 11 | [Basic Electromotive Forces](#basic-electromotive-forces) | 2 | 07-07, 07-14 |
+| 12 | [Basic electronics](#basic-electronics) | 2 | 08-04, 08-11 |
+| 13 | [Intro to programming and logic](#intro-to-programming-and-logic) | 4 | 08-18, 08-25, 09-01, 09-08 |
+| 14 | [Intro to microcontrollers and minicomputers](#intro-to-microcontrollers-and-minicomputers) | 3 | 09-22, 09-29, 10-06 |
+| 15 | [Halloween Project](#halloween-project) | 3 | 10-13, 10-20, 10-27 |
+| 16 | [Intro to robotics](#intro-to-robotics) | 3 | 11-03, 11-10, 11-17 |
+
+### Lego Car Battle Royal
+  - Date 2026-03-17
+  - Number of Sessions: 1
+  - Project Output: A Lego car that can be used in a crash battle with other lego cars
+
+During this topic we will assemble cars made from a box of assorted lego parts. Children will use their own designs 
+and decoration. We will crash the cars into each other to see which one is the most durable, then have another round 
+of building to apply the lessons learned from the first round. If time allows we will do one more round of building and crashing.
+The group that wins will get a little Lego trophy.
+
+Will judge on prettiness, creativity, and durability of the cars.
+
+We will learn about basic physics principal such as mass, momentum, friction, and adhesion. 
+We will learn and how to build things that can withstand forces.
+We will learn the iterative engineering design process (think/design, build, test, feedback (apply lessons learned)).
+
+#### Materials Provided by School
+ - Tools (see below)
+ - A large box of assorted lego parts
+
+#### Materials Provided By Students
+ - Safety glasses (for crashes)
+ - Optionally legos to add to the box / use for building
+
+#### Tools Provided by School
+ - Small Screwdrivers for prying apart pieces
+ - Pliers for pulling apart pieces
+
+
 ### Taking things apart
   - Number of Sessions: 1
+  - Date 2026-03-24
   - Project Output: A box of parts for use in later projects, and/or reassembled things
 
 During this topic we will take apart a variety of things to see how they work. 
@@ -93,41 +154,22 @@ and unfasten them (e.g. screws, clips, adhesives, etc.).
  - Screwdrivers (phillips and flathead)
  - Pliers
 
-### Lego Car Battle Royal
-  - Number of Sessions: 1
-  - Project Output: A Lego car that can be used in a crash battle with other lego cars
-
-During this topic we will assemble cars made from a box of assorted lego parts. Children will use their own designs 
-and decoration. We will crash the cars into each other to see which one is the most durable, then have another round 
-of building to apply the lessons learned from the first round. If time allows we will do one more round of building and crashing.
-The group that wins will get a little Lego trophy. 
-
-We will learn about basic physics principal such as mass, momentum, friction and adhesion. 
-We will learn and how to build things that can withstand forces.
-We will learn the iterative engineering design process (think/design, build, test, feedback (apply lessons learned)).
-
-#### Materials Provided by School
- - Tools (see below)
- - A large box of assorted lego parts
-
-#### Materials Provided By Students
- - Safety glasses (for crashes)
- - Optionally legos to add to the box / use for building
-
-#### Tools Provided by School
- - Small Screwdrivers for prying apart pieces
- - Pliers for pulling apart pieces
-
-
 
 ### Woodworking
   - Number of Sessions: 3
+  - Dates: 2026-03-31, 2026-04-07, 2026-04-14
   - Project Output: A wooden box, a wooden toy, a wooden game, a wooden figurine, a wooden puzzle, a wooden sculpture, a wooden piece of furniture, etc.
 
 During this topic we will learn about the different types of wood (soft vs hard), and how to work with them.
 We will learn about the different types of tools we need to work with wood, and how to use them safely.
-We will learn how to cut, sand, bond, assemble and finish wood.
+We will learn how to cut, sand, bond, assemble, and finish wood.
 We will learn how to whittle and shape wood. 
+
+#### Instruction
+  - Cutting tools (saws, chisels, knives, etc.)
+  - Shaping tools (planes, rasps, files, etc.)
+  - Joining tools (hammers, drills, screwdrivers, glue + clamps etc.)
+  - Finishing tools (sandpaper, brushes, etc.)
 
 #### Materials Provided by School
  - Tools (see below)
@@ -155,13 +197,16 @@ We will learn how to whittle and shape wood.
  - Wood Plane
  - Vice
  - Iron (for wood burning)
+ - Sandpaper
+ - Wood Glue
 
 ### Light metalworking and soldering
   - Number of Sessions: 1
+  - Date: 2026-04-21
   - Project Output: A small sculpture or figurine, jewelry piece made from metal
 
 During this topic we will learn about the different types of metals (aluminum, copper, brass, etc.), and how to work with them.
-We will learn how to cut, bend, sand, bond, solder and finish metal.
+We will learn how to cut, bend, sand, bond, solder, and finish metal.
 
 #### Materials Provided by School
  - Tools (see below)
@@ -176,6 +221,7 @@ We will learn how to cut, bend, sand, bond, solder and finish metal.
 
 #### Tools Provided by School
  - Hacksaw
+ - Metal snips (for cutting metal sheets)
  - Drill (electric drill, metal drill bits)
  - Screwdrivers (phillips and flathead)
  - Pliers
@@ -184,7 +230,8 @@ We will learn how to cut, bend, sand, bond, solder and finish metal.
  - Soldering Iron
 
 ### Basic Hand Sewing
-- Number of Sessions: 2
+- Number of Sessions: 1
+- Date: 2026-04-28
 - Project Output: A small sewn item (e.g. a pouch, a stuffed toy, a simple garment, etc.)
 
 During this topic we will learn about different types of fabrics and materials used in sewing.
@@ -192,7 +239,7 @@ We will learn basic hand-sewing techniques including different types of stitches
 We will learn how to use patterns, cut fabric, and assemble pieces.
 We will learn how to use a sewing machine for those who are interested.
 
-NB: I may ask Maca to attend one of both of the lessons to share her expertise with us.
+Maca Jimenez will attend one of both of the lessons to share her expertise with us.
 
 #### Materials Provided by School
  - Tools (see below)
@@ -216,6 +263,7 @@ NB: I may ask Maca to attend one of both of the lessons to share her expertise w
 
 ### Working with plastic
 - Number of Sessions: 1
+- Date: 2026-05-05
 - Project Output: A small structure (model house, figurine, etc.) made from plastic blocks
 
 During this topic we will learn about the different types of plastics (ABS, PVC, etc.), and how to work with them.
@@ -241,6 +289,7 @@ We will learn how to cut, drill, melt, bend, sand, bond plastic.
 
 ### 3D printing
 - Number of Sessions: 2
+- Dates: 2026-05-19, 2026-05-26
 - Project Output: A 3D printed object designed by the student
 
 During this topic we will learn about 3D printing technology and how it works.
@@ -265,8 +314,9 @@ Each student group will design and print a small object of their choice.
  - Pliers (for support removal)
  - Sandpaper (for finishing prints)
 
-### Mechanics, gears, pulleys and levers
+### Mechanics, gears, pulleys, and levers
 - Number of Sessions: 2
+- Dates: 2026-06-02, 2026-06-09
 - Project Output: A mechanical device that demonstrates principles of simple machines (e.g., a catapult, a crane, a car with gears)
 
 During this topic we will learn about simple machines and mechanical principles.
@@ -298,6 +348,7 @@ Each group will design and build a mechanical device that demonstrates these pri
 
 ### Basic electricity
 - Number of Sessions: 2
+- Dates: 2026-06-16, 2026-06-23
 - Project Output: A simple electrical circuit (e.g., a light-up greeting card, a battery-powered LED light, a simple alarm)
 
 During this topic we will learn about basic electrical concepts including voltage, current, resistance, and power.
@@ -330,13 +381,39 @@ Each student will design and build a simple electrical circuit project.
  - Scissors
  - Ruler
 
+### Pneumatics and Hydraulics
+- Number of Sessions: 1
+- Date: 2026-06-30
+- Project Output: A simple pneumatic or hydraulic device (e.g., a pneumatic arm, a catapult, a hydraulic lift, a balloon-powered car)
+
+During this topic we will learn about pneumatics and hydraulics and how they can be used to create motion.
+We will learn about the properties of gases and liquids, and how they can be used to generate force and motion.
+We will learn how to build simple pneumatic and hydraulic systems using syringes,tubing, and other materials.
+Each group will design and build a simple pneumatic or hydraulic device that demonstrates these principles.
+
+#### Materials Provided By Students
+ - Safety glasses
+ - Any special materials they want to incorporate
+
+#### Materials Provided by School
+ - Tools (see below)
+ - Syringes of various sizes
+ - Tubing
+ - Balloons
+ - Water and containers for water
+ - Cardboard and foam board for mounting
+ - Assorted fasteners
+ - Hot glue and wood glue
+ - Assorted materials for making structures (e.g. popsicle sticks, straws, etc.)
+
 ### Basic Electromotive Forces
 - Number of Sessions: 2
+- Dates: 2026-07-07, 2026-07-14
 - Project Output: An electromagnet, a hand made motor, a handmade relay or solenoid, a speaker. 
 
 In this topic we will learn about electromagnetism and how electricity can be converted to produce physical motion. 
 This knowledge will come in handy for later projects.
-Each group will make one of an electromagnet, solenoid, motor or speaker.
+Each group will make one of an electromagnet, solenoid, motor, or speaker.
 We will learn about permanent magnets and how they interact with electric current.
 We will learn about electromagments and how they can be used to create motion.
 Wee will learn about relays which are electromagnetic switches that can be used to control larger currents with smaller ones.
@@ -361,6 +438,7 @@ Wee will learn about relays which are electromagnetic switches that can be used 
 
 ### Basic electronics
 - Number of Sessions: 2
+- Dates: 2026-08-04, 2026-08-11
 - Project Output: An electronic device with semiconductor components (e.g., a light sensor, a touch-activated switch, a simple music player)
 
 During this topic we will build on our knowledge of basic electricity and learn about electronic components.
@@ -391,34 +469,9 @@ Each group will design and build an electronic device that uses semiconductor co
  - Digital oscilloscope (for demonstration)
  - Multimeter
 
-### Halloween Project
+### Intro to programming and logic
 - Number of Sessions: 4
-- Project Output: A Halloween decoration (e.g. a spooky robot, a spooky light, a spooky sound, a wearable mask or costume, etc.)
-
-During this topic we will combine and apply all the skills we have learned in the previous topics to create a Halloween decoration.
-Children will come up with an idea, and then be guided how to implement it given the constraints of time, 
-available materials and skill level of the group.
-
-When completed, the school will have a Halloween party where the kids can show off their creations to the other 
-kids and parents in the school.
-
-#### Materials Provided by School
- - Tools (see below)
- - A box of assorted mechanical parts (e.g. gears, pulleys, rubber bands, etc.)
- - A box of assorted materials (e.g. cardboard, plastic, wood, etc.)
- - A box of assorted fasteners (e.g. screws, nuts, bolts, etc.)
- - A box of assorted electronics (e.g. batteries, wires, etc.)
-
-### Materials Provided By Students
- - Safety glasses
- - Any parts from home they may want to incorporate into their project (e.g. old toys, old electronics, etc.)
-
-#### Tools Provided by School
- - All tools from previous sessions
-
-
-### Intro to programming
-- Number of Sessions: 4
+- Dates: 2026-08-18, 2026-08-25, 2026-09-01, 2026-09-08
 - Project Output: A simple computer program (e.g., a game, an animation, an interactive story)
 
 During this topic we will learn the basics of computer programming using a visual programming language [Scratch](https://scratch.mit.edu/).
@@ -441,7 +494,8 @@ Each student will create their own program that demonstrates these concepts.
  - Internet access for online programming resources
 
 ### Intro to microcontrollers and minicomputers
-- Number of Sessions: 2
+- Number of Sessions: 3
+- Dates: 2026-09-22, 2026-09-29, 2026-10-06
 - Project Output: A microcontroller-based project (e.g., a blinking light, a timer, a servo motor control, a simple sensor project)
 
 During this topic we will learn about microcontrollers and minicomputers like Arduino and Raspberry Pi.
@@ -472,8 +526,35 @@ Each group will create a project that uses a microcontroller to interact with th
  - Multimeter
  - Soldering stations (for supervised use)
 
+### Halloween Project
+- Number of Sessions: 3
+- Dates: 2026-10-13, 2026-10-20, 2026-10-27
+- Project Output: A Halloween decoration (e.g. a spooky robot, a spooky light, a spooky sound, a wearable mask or costume, etc.)
+
+During this topic we will combine and apply all the skills we have learned in the previous topics to create a Halloween decoration.
+Children will come up with an idea, and then be guided how to implement it given the constraints of time, 
+available materials, and skill level of the group.
+
+When completed, the school will have a Halloween party where the kids can show off their creations to the other 
+kids and parents in the school.
+
+#### Materials Provided by School
+ - Tools (see below)
+ - A box of assorted mechanical parts (e.g. gears, pulleys, rubber bands, etc.)
+ - A box of assorted materials (e.g. cardboard, plastic, wood, etc.)
+ - A box of assorted fasteners (e.g. screws, nuts, bolts, etc.)
+ - A box of assorted electronics (e.g. batteries, wires, etc.)
+
+### Materials Provided By Students
+ - Safety glasses
+ - Any parts from home they may want to incorporate into their project (e.g. old toys, old electronics, etc.)
+
+#### Tools Provided by School
+ - All tools from previous sessions
+
 ### Intro to robotics
-- Number of Sessions: 2
+- Number of Sessions: 3
+- Dates: 2026-11-03, 2026-11-10, 2026-11-17
 - Project Output: A simple robot that can move and respond to its environment
 
 During this topic we will combine our knowledge of mechanics, electronics, and programming to build robots.
