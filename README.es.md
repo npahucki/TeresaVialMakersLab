@@ -87,18 +87,17 @@ y usar software para afectar el mundo físico.
 | 2 | [Desarmando cosas](#desarmando-cosas) | 1 | 03-24 |
 | 3 | [Carpintería](#carpintería) | 3 | 03-31, 04-07, 04-14 |
 | 4 | [Trabajo ligero con metales y soldadura](#trabajo-ligero-con-metales-y-soldadura) | 1 | 04-21 |
-| 5 | [Costura básica a mano](#costura-básica-a-mano) | 1 | 04-28 |
-| 6 | [Trabajando con plástico](#trabajando-con-plástico) | 1 | 05-05 |
-| 7 | [Impresión 3D](#impresión-3d) | 2 | 05-19, 05-26 |
-| 8 | [Mecánica, engranajes, poleas y palancas](#mecánica-engranajes-poleas-y-palancas) | 2 | 06-02, 06-09 |
-| 9 | [Electricidad básica](#electricidad-básica) | 2 | 06-16, 06-23 |
-| 10 | [Neumática e Hidráulica](#neumática-e-hidráulica) | 1 | 06-30 |
-| 11 | [Fuerzas electromotrices básicas](#fuerzas-electromotrices-básicas) | 2 | 07-07, 07-14 |
-| 12 | [Electrónica básica](#electrónica-básica) | 2 | 08-04, 08-11 |
-| 13 | [Introducción a la programación y lógica](#introducción-a-la-programación-y-lógica) | 4 | 08-18, 08-25, 09-01, 09-08 |
-| 14 | [Introducción a microcontroladores y minicomputadoras](#introducción-a-microcontroladores-y-minicomputadoras) | 3 | 09-22, 09-29, 10-06 |
-| 15 | [Proyecto de Halloween](#proyecto-de-halloween) | 3 | 10-13, 10-20, 10-27 |
-| 16 | [Introducción a la robótica](#introducción-a-la-robótica) | 3 | 11-03, 11-10, 11-17 |
+| 5 | [Costura básica a mano](#costura-básica-a-mano) | 2 | 04-28, 05-05 |
+| 6 | [Impresión 3D](#impresión-3d) | 2 | 05-19, 05-26 |
+| 7 | [Mecánica, engranajes, poleas y palancas](#mecánica-engranajes-poleas-y-palancas) | 2 | 06-02, 06-09 |
+| 8 | [Electricidad básica](#electricidad-básica) | 2 | 06-16, 06-23 |
+| 9 | [Neumática e Hidráulica](#neumática-e-hidráulica) | 1 | 06-30 |
+| 10 | [Fuerzas electromotrices básicas](#fuerzas-electromotrices-básicas) | 2 | 07-07, 07-14 |
+| 11 | [Electrónica básica](#electrónica-básica) | 2 | 08-04, 08-11 |
+| 12 | [Introducción a la programación y lógica](#introducción-a-la-programación-y-lógica) | 4 | 08-18, 08-25, 09-01, 09-08 |
+| 13 | [Introducción a microcontroladores y minicomputadoras](#introducción-a-microcontroladores-y-minicomputadoras) | 3 | 09-22, 09-29, 10-06 |
+| 14 | [Proyecto de Halloween](#proyecto-de-halloween) | 3 | 10-13, 10-20, 10-27 |
+| 15 | [Introducción a la robótica](#introducción-a-la-robótica) | 3 | 11-03, 11-10, 11-17 |
 
 ### Batalla Real de Autos de Lego
   - Fecha: 2026-03-17
@@ -231,8 +230,8 @@ Aprenderemos cómo cortar, doblar, lijar, pegar, soldar y acabar el metal.
  - Cautín ("cautín" o "soldador")
 
 ### Costura básica a mano
-- Número de Sesiones: 1
-- Fecha: 2026-04-28
+- Número de Sesiones: 2
+- Fechas: 2026-04-28, 2026-05-05
 - Resultado del Proyecto: Un pequeño artículo cosido (por ejemplo, una bolsa, un juguete de peluche, una prenda simple, etc.)
 
 Durante este tema aprenderemos sobre diferentes tipos de telas y materiales utilizados en la costura.
@@ -262,32 +261,6 @@ Maca Jimenez asistirá a la lección para compartir su experiencia con nosotros.
  - Máquina de coser (para demostración y uso supervisado)
  - Plancha (para prensar costuras, "plancha")
 
-### Trabajando con plástico
-- Número de Sesiones: 1
-- Fecha: 2026-05-05
-- Resultado del Proyecto: Una pequeña estructura (casa modelo, figurita, etc.) hecha de bloques de plástico
-
-Durante este tema aprenderemos sobre los diferentes tipos de plásticos (ABS, PVC, etc.) y cómo trabajar con ellos.
-Aprenderemos cómo cortar, taladrar, derretir, doblar, lijar, pegar plástico.
-
-#### Materiales Proporcionados por la Escuela
- - Herramientas (ver abajo)
- - Bloques y piezas de plástico
- - Tubos y accesorios de PVC
- - Diferentes tipos de pegamento
-
-#### Materiales Proporcionados por los Estudiantes
- - Lentes de seguridad
-
-#### Herramientas Proporcionadas por la Escuela
- - Sierra para metales ("arco de sierra")
- - Taladro (taladro eléctrico o "taladro", brocas o "mechas")
- - Destornilladores (de cruz y planos, "chuecos")
- - Alicates ("pinzas")
- - Tornillo de banco ("prensa")
- - Cautín (para derretir plástico, "cautín" o "soldador")
- - Pistola de calor (para doblar plástico, "pistola de calor" o "secador industrial")
-
 ### Impresión 3D
 - Número de Sesiones: 2
 - Fechas: 2026-05-19, 2026-05-26
@@ -297,7 +270,10 @@ Durante este tema aprenderemos sobre la tecnología de impresión 3D y cómo fun
 Aprenderemos sobre diferentes tipos de impresoras 3D y materiales.
 Aprenderemos cómo usar software de modelado 3D para crear diseños simples.
 Aprenderemos cómo preparar modelos para imprimir y operar una impresora 3D de manera segura.
-Cada grupo de estudiantes diseñará e imprimirá un pequeño objeto de su elección.
+Cada grupo de estudiantes diseñará e imprimirá un pequeño objeto de su elección o diseño.
+
+La primera clase se enfocará en aprender el software (TinkerCad) y diseñar el objeto,
+y la segunda clase se enfocará en imprimir el objeto y darle el acabado (quitar soportes, lijar, etc.).
 
 #### Materiales Proporcionados por la Escuela
  - Herramientas (ver abajo)

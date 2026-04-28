@@ -86,18 +86,17 @@ expertise and use software to affect the physical world.
 | 2 | [Taking things apart](#taking-things-apart) | 1 | 03-24 |
 | 3 | [Woodworking](#woodworking) | 3 | 03-31, 04-07, 04-14 |
 | 4 | [Light metalworking and soldering](#light-metalworking-and-soldering) | 1 | 04-21 |
-| 5 | [Basic Hand Sewing](#basic-hand-sewing) | 1 | 04-28 |
-| 6 | [Working with plastic](#working-with-plastic) | 1 | 05-05 |
-| 7 | [3D printing](#3d-printing) | 2 | 05-19, 05-26 |
-| 8 | [Mechanics, gears, pulleys, and levers](#mechanics-gears-pulleys-and-levers) | 2 | 06-02, 06-09 |
-| 9 | [Basic electricity](#basic-electricity) | 2 | 06-16, 06-23 |
-| 10 | [Pneumatics and Hydraulics](#pneumatics-and-hydraulics) | 1 | 06-30 |
-| 11 | [Basic Electromotive Forces](#basic-electromotive-forces) | 2 | 07-07, 07-14 |
-| 12 | [Basic electronics](#basic-electronics) | 2 | 08-04, 08-11 |
-| 13 | [Intro to programming and logic](#intro-to-programming-and-logic) | 4 | 08-18, 08-25, 09-01, 09-08 |
-| 14 | [Intro to microcontrollers and minicomputers](#intro-to-microcontrollers-and-minicomputers) | 3 | 09-22, 09-29, 10-06 |
-| 15 | [Halloween Project](#halloween-project) | 3 | 10-13, 10-20, 10-27 |
-| 16 | [Intro to robotics](#intro-to-robotics) | 3 | 11-03, 11-10, 11-17 |
+| 5 | [Basic Hand Sewing](#basic-hand-sewing) | 2 | 04-28, 05-05 |
+| 6 | [3D printing](#3d-printing) | 2 | 05-19, 05-26 |
+| 7 | [Mechanics, gears, pulleys, and levers](#mechanics-gears-pulleys-and-levers) | 2 | 06-02, 06-09 |
+| 8 | [Basic electricity](#basic-electricity) | 2 | 06-16, 06-23 |
+| 9 | [Pneumatics and Hydraulics](#pneumatics-and-hydraulics) | 1 | 06-30 |
+| 10 | [Basic Electromotive Forces](#basic-electromotive-forces) | 2 | 07-07, 07-14 |
+| 11 | [Basic electronics](#basic-electronics) | 2 | 08-04, 08-11 |
+| 12 | [Intro to programming and logic](#intro-to-programming-and-logic) | 4 | 08-18, 08-25, 09-01, 09-08 |
+| 13 | [Intro to microcontrollers and minicomputers](#intro-to-microcontrollers-and-minicomputers) | 3 | 09-22, 09-29, 10-06 |
+| 14 | [Halloween Project](#halloween-project) | 3 | 10-13, 10-20, 10-27 |
+| 15 | [Intro to robotics](#intro-to-robotics) | 3 | 11-03, 11-10, 11-17 |
 
 ### Lego Car Battle Royal
   - Date 2026-03-17
@@ -230,8 +229,8 @@ We will learn how to cut, bend, sand, bond, solder, and finish metal.
  - Soldering Iron
 
 ### Basic Hand Sewing
-- Number of Sessions: 1
-- Date: 2026-04-28
+- Number of Sessions: 2
+- Dates: 2026-04-28, 2026-05-05
 - Project Output: A small sewn item (e.g. a pouch, a stuffed toy, a simple garment, etc.)
 
 During this topic we will learn about different types of fabrics and materials used in sewing.
@@ -261,32 +260,6 @@ Maca Jimenez will attend one of both of the lessons to share her expertise with 
  - Sewing machine (for demonstration and supervised use)
  - Iron (for pressing seams)
 
-### Working with plastic
-- Number of Sessions: 1
-- Date: 2026-05-05
-- Project Output: A small structure (model house, figurine, etc.) made from plastic blocks
-
-During this topic we will learn about the different types of plastics (ABS, PVC, etc.), and how to work with them.
-We will learn how to cut, drill, melt, bend, sand, bond plastic.
-
-#### Materials Provided by School
- - Tools (see below)
- - Plastic blocks and parts
- - PVC pipe and fittings
- - Different types of glue
-
-#### Materials Provided By Students
- - Safety glasses
-
-#### Tools Provided by School
- - Hacksaw
- - Drill (electric drill, drill bits)
- - Screwdrivers (phillips and flathead)
- - Pliers
- - Vice
- - Soldering Iron (for melting plastic)
- - Heat gun (for bending plastic)
-
 ### 3D printing
 - Number of Sessions: 2
 - Dates: 2026-05-19, 2026-05-26
@@ -296,7 +269,10 @@ During this topic we will learn about 3D printing technology and how it works.
 We will learn about different types of 3D printers and materials.
 We will learn how to use 3D modeling software to create simple designs.
 We will learn how to prepare models for printing and operate a 3D printer safely.
-Each student group will design and print a small object of their choice.
+Each student group will design and print a small object of their choice or design.
+
+The first class will be focused on learning the software (TinkerCad) and designing the object, 
+and the second class will be focused on printing the object and finishing it (removing supports, sanding, etc.). 
 
 #### Materials Provided by School
  - Tools (see below)
